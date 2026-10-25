@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="994" height="610" viewBox="0 0 994 610" font-family="'DM Sans','Libre Franklin',Arial,sans-serif">
+<rect width="994" height="610" fill="#FFF8F6"/>
+<rect x="55" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="131" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="207" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="283" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="359" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="435" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="511" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="587" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="663" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="739" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="815" y="0" width="57" height="610" fill="#FBEBE7"/>
+<rect x="891" y="0" width="57" height="610" fill="#FBEBE7"/>
+<g stroke="#222" stroke-width="1" stroke-dasharray="4 3"><line x1="502" y1="78" x2="502" y2="528"/><line x1="240" y1="300" x2="765" y2="300"/></g>
+<text x="509" y="62" text-anchor="middle" font-size="18" font-weight="700" fill="#111">BUILD-READY</text>
+<text x="509" y="560" text-anchor="middle" font-size="18" font-weight="700" fill="#111">INSPIRATION ONLY</text>
+<text x="157" y="306" text-anchor="middle" font-size="18" font-weight="700" fill="#111">UNSTRUCTURED</text>
+<text x="840" y="306" text-anchor="middle" font-size="18" font-weight="700" fill="#111">STRUCTURED</text>
+<text x="221" y="125" font-size="14" font-weight="500" fill="#111" text-anchor="middle">AI Build Tools</text>
+<text x="743" y="125" font-size="14" font-weight="500" fill="#111" text-anchor="middle">Curated Context to Creation</text>
+<text x="226" y="460" font-size="14" font-weight="500" fill="#111" text-anchor="middle">Quick Capture</text>
+<text x="746" y="460" font-size="14" font-weight="500" fill="#111" text-anchor="middle">Visual discovery &amp; Libraries</text>
+<g><rect x="146.4" y="164.0" width="57.1" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="175" y="182.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Bolt</text></g>
+<g><rect x="308.7" y="191.0" width="42.6" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="330" y="209.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">v0</text></g>
+<g><rect x="165.5" y="218.0" width="79.0" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="205" y="236.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Lovable</text></g>
+<g><rect x="329.2" y="248.0" width="71.7" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="365" y="266.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Cursor</text></g>
+<g><rect x="74.2" y="248.0" width="71.7" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="110" y="266.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Claude</text></g>
+<g><rect x="228.5" y="261.0" width="79.0" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="268" y="279.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">ChatGPT</text></g>
+<g><rect x="559.6" y="241.0" width="100.8" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="610" y="259.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Figma Make</text></g>
+<g><rect x="66.9" y="331.0" width="86.2" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="110" y="349.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">WhatsApp</text></g>
+<g><rect x="71.0" y="396.0" width="108.1" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="125" y="414.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Camera Roll</text></g>
+<g><rect x="201.0" y="358.0" width="108.1" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="255" y="376.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Apple Notes</text></g>
+<g><rect x="312.3" y="321.0" width="115.4" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="370" y="339.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Reddit saved</text></g>
+<g><rect x="299.1" y="386.0" width="151.8" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="375" y="404.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Browser bookmarks</text></g>
+<g><rect x="544.2" y="331.0" width="71.7" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="580" y="349.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">FigJam</text></g>
+<g><rect x="654.2" y="324.0" width="71.7" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="690" y="342.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Notion</text></g>
+<g><rect x="761.0" y="321.0" width="108.1" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="815" y="339.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Raindrop.io</text></g>
+<g><rect x="734.2" y="364.0" width="71.7" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="770" y="382.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Are.na</text></g>
+<g><rect x="583.2" y="383.0" width="93.5" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="630" y="401.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Pinterest</text></g>
+<g><rect x="830.5" y="384.0" width="79.0" height="28" rx="14.0" fill="#fff" stroke="#E6D3CE"/><text x="870" y="402.6" text-anchor="middle" font-size="13" font-weight="500" fill="#2b2b2b">Behance</text></g>
+<g><rect x="696.6" y="169.0" width="86.8" height="32" rx="16.0" fill="#FE4C02"/><text x="740" y="190.3" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">my.Nook</text></g>
+</svg>
