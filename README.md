@@ -6,7 +6,7 @@ my.Nook lets designers collect visual references into boards, add context to the
 
 **Live prototype:** https://my-nook-three.vercel.app
 
-> This is a front-end prototype built from a Figma design system and 12 high-fidelity screens. There is no backend: everything you do (favourites, comments, shares, trash and so on) is kept in memory for the session and resets when you reload the page.
+> This is a front-end prototype built from a Figma design system. There is no backend: everything you do (favourites, comments, shares, trash and so on) is kept in memory for the session and resets when you reload the page.
 
 ## Why it exists
 
